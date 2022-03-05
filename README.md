@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![CI/CD](https://github.com/dyarleniber/react-workflow-gh-actions/workflows/CI/CD/badge.svg)
+[![codecov](https://codecov.io/gh/<OWNER>/<REPOSITORY>/branch/master/graph/badge.svg)](https://codecov.io/gh/<OWNER>/<REPOSITORY>)
+[![codecov](https://codecov.io/gh/dyarleniber/react-workflow-gh-actions/branch/master/graph/badge.svg)](https://codecov.io/gh/dyarleniber/react-workflow-gh-actions)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
